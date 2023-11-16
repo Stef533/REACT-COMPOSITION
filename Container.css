@@ -1,0 +1,8 @@
+.app{
+  background-color: white;
+  border: 2px solid red;
+}
+
+.app-content-hidden{
+  display: none;
+}
